@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # WWWroot 
-/download-images
+/M2SysAssesment/wwwroot/download-images
