@@ -396,6 +396,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-
-# WWWroot 
-/M2SysAssesment/wwwroot/download-images
